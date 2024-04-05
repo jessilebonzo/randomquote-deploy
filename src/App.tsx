@@ -48,7 +48,7 @@ function App() {
         }}>
           <FaTwitter color="white" />
         </a>
-        <button id="new-quote" onClick={changeQuote} style={{backgroundColor: randomColor}}>Change Quote</button>
+        <button id="new-quote" onClick={changeQuote} style={{backgroundColor: randomColor}}>Next Quote</button>
       </div>
     </div>
   </div>
