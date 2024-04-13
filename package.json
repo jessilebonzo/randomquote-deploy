@@ -1,6 +1,6 @@
 {
-  "homepage": "https://jessilebonzo.github.io/randomquote-deploy",
-  "name": "random-quote-machine",
+  "homepage": "https://randomquote-deploy.vercel.app",
+  "name": "randomquote-deploy",
   "private": true,
   "version": "0.0.0",
   "type": "module",
