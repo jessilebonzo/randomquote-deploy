@@ -1,5 +1,5 @@
 {
-  "homepage": "https://randomquote-deploy.vercel.app",
+  "homepage": "https://randomquote-deploy.netlify.app",
   "name": "randomquote-deploy",
   "private": true,
   "version": "0.0.0",
